@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Enchanced Cloak",
+        "required_smithing_level": 7,
+        "level": 12,
+        "ingredients": [
+            {
+                "name": "Boar Hide",
+                "count": "6"
+            },
+            {
+                "name": "Beginners Cloak",
+                "count": "1"
+            },
+            {
+                "name": "Copper Ingot",
+                "count": "4"
+            },
+            {
+                "name": "Wolf Hide",
+                "count": "5"
+            }
+        ]
+    },
+    {
+        "name": "Blessed Pendant of Light",
+        "required_smithing_level": 92,
+        "level": 95,
+        "ingredients": [
+            {
+                "name": "Moons Light",
+                "count": "1"
+            },
+            {
+                "name": "Refined Gem",
+                "count": "15"
+            },
+            {
+                "name": "Slayers Brew",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Flora",
+        "required_smithing_level": 120,
+        "level": 115,
+        "ingredients": [
+            {
+                "name": "Queens Vine",
+                "count": "4"
+            },
+            {
+                "name": "Plant Matter Ingot",
+                "count": "15"
+            },
+            {
+                "name": "Slayers Essence",
+                "count": "2"
+            }
+        ]
+    }
+]

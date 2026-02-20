@@ -1,0 +1,705 @@
+[
+    {
+        "name": "Master Steel Sword",
+        "required_smithing_level": 4,
+        "SK": 10,
+        "ingredients": [
+            {
+                "name": "Boar Hide",
+                "count": "8"
+            },
+            {
+                "name": "Wolf Hide",
+                "count": "6"
+            },
+            {
+                "name": "Iron Ingot",
+                "count": "10"
+            },
+            {
+                "name": "Copper Ingot",
+                "count": "10"
+            }
+        ]
+    },
+    {
+        "name": "Master Steel Sword MkII",
+        "required_smithing_level": 6,
+        "SK": 13,
+        "ingredients": [
+            {
+                "name": "Copper Ingot",
+                "count": "5"
+            },
+            {
+                "name": "Boar Hide",
+                "count": "4"
+            },
+            {
+                "name": "Iron Ingot",
+                "count": "5"
+            },
+            {
+                "name": "Master Steel Sword",
+                "count": "1"
+            },
+            {
+                "name": "Wolf Hide",
+                "count": "3"
+            }
+        ]
+    },
+    {
+        "name": "GrandMaster Steel Blade MkII",
+        "required_smithing_level": 8,
+        "SK": 18,
+        "ingredients": [
+            {
+                "name": "Copper Ingot",
+                "count": "6"
+            },
+            {
+                "name": "Boar Hide",
+                "count": "3"
+            },
+            {
+                "name": "Iron Ingot",
+                "count": "6"
+            },
+            {
+                "name": "GrandMaster Steel Blade",
+                "count": "1"
+            },
+            {
+                "name": "Illfangs Tooth",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "GrandMaster Steel Blade MkII",
+        "required_smithing_level": 10,
+        "SK": 35,
+        "ingredients": [
+            {
+                "name": "Copper Ingot",
+                "count": "8"
+            },
+            {
+                "name": "Boar Hide",
+                "count": "6"
+            },
+            {
+                "name": "Iron Ingot",
+                "count": "8"
+            },
+            {
+                "name": "GrandMaster Steel Blade MkII",
+                "count": "1"
+            },
+            {
+                "name": "Illfangs Tooth",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Malachite Blade",
+        "required_smithing_level": 15,
+        "SK": 55,
+        "ingredients": [
+            {
+                "name": "Malachite Ingot",
+                "count": "20"
+            },
+            {
+                "name": "Wolf Hide",
+                "count": "10"
+            },
+            {
+                "name": "Corundum Ingot",
+                "count": "20"
+            },
+            {
+                "name": "Lord Slugs Slime",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Sandstorm Blade",
+        "required_smithing_level": 25,
+        "SK": 75,
+        "ingredients": [
+            {
+                "name": "Gold Ingot",
+                "count": "20"
+            },
+            {
+                "name": "Malachite Ingot",
+                "count": "15"
+            },
+            {
+                "name": "Corundum Ingot",
+                "count": "15"
+            },
+            {
+                "name": "Stallords Eye",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Permafrost Sword",
+        "required_smithing_level": 35,
+        "SK": 95,
+        "ingredients": [
+            {
+                "name": "Xrphans Feather",
+                "count": "1"
+            },
+            {
+                "name": "Silver Ingot",
+                "count": "20"
+            },
+            {
+                "name": "Bourne Ingot",
+                "count": "20"
+            }
+        ]
+    },
+    {
+        "name": "Dark Repulser",
+        "required_smithing_level": 40,
+        "SK": 90,
+        "ingredients": [
+            {
+                "name": "Xrphans Feather",
+                "count": "1"
+            },
+            {
+                "name": "Silver Ingot",
+                "count": "20"
+            },
+            {
+                "name": "Bourne Ingot",
+                "count": "20"
+            }
+        ]
+    },
+    {
+        "name": "Demonic Blade",
+        "required_smithing_level": 45,
+        "SK": 115,
+        "ingredients": [
+            {
+                "name": "Demonite Ingot",
+                "count": "20"
+            },
+            {
+                "name": "Wolf Hide",
+                "count": "20"
+            },
+            {
+                "name": "Uakmaroths Horn",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Mossy Ingot",
+        "required_smithing_level": 55,
+        "SK": 135,
+        "ingredients": [
+            {
+                "name": "Mossy Ingot",
+                "count": "25"
+            },
+            {
+                "name": "Holy Silver Ingot",
+                "count": "20"
+            },
+            {
+                "name": "Plasma Extract",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Dark Repulser MkII",
+        "required_smithing_level": 60,
+        "SK": 140,
+        "ingredients": [
+            {
+                "name": "Plasma Extract",
+                "count": "1"
+            },
+            {
+                "name": "Holy Silver Ingot",
+                "count": "20"
+            },
+            {
+                "name": "Demonite Ingot",
+                "count": "20"
+            },
+            {
+                "name": "Dark Repulser",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Corroded Crusader",
+        "required_smithing_level": 65,
+        "SK": 155,
+        "ingredients": [
+            {
+                "name": "Reinforced Bone",
+                "count": "45"
+            },
+            {
+                "name": "Ebony Ingot",
+                "count": "20"
+            },
+            {
+                "name": "Petrified Skull",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Poseidons Repulser",
+        "required_smithing_level": 80,
+        "SK": 175,
+        "ingredients": [
+            {
+                "name": "Reinforced Coral",
+                "count": "25"
+            },
+            {
+                "name": "Sea Jewel",
+                "count": "25"
+            },
+            {
+                "name": "Scale",
+                "count": "5"
+            },
+            {
+                "name": "Krakens Beak",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Dark Repulser MkIII",
+        "required_smithing_level": 80,
+        "SK": 190,
+        "ingredients": [
+            {
+                "name": "Krakens Beak",
+                "count": "1"
+            },
+            {
+                "name": "Refined Gem",
+                "count": "20"
+            },
+            {
+                "name": "Reinforced Coral",
+                "count": "20"
+            },
+            {
+                "name": "Dark Repulser MkII",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Forest Warrior",
+        "required_smithing_level": 95,
+        "SK": 200,
+        "ingredients": [
+            {
+                "name": "Moons Light",
+                "count": "1"
+            },
+            {
+                "name": "Refined Gem",
+                "count": "5"
+            },
+            {
+                "name": "Slayers Brew",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Impartial Edge",
+        "required_smithing_level": 105,
+        "SK": 215,
+        "ingredients": [
+            {
+                "name": "Corruption Tendrils",
+                "count": "20"
+            },
+            {
+                "name": "Harrowed Ingot",
+                "count": "20"
+            },
+            {
+                "name": "Kings Crown",
+                "count": "1"
+            },
+            {
+                "name": "Impurity",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Dark Repulser MkIV",
+        "required_smithing_level": 110,
+        "SK": 240,
+        "ingredients": [
+            {
+                "name": "Harrowed Ingot",
+                "count": "20"
+            },
+            {
+                "name": "Plant Matter Ingot",
+                "count": "20"
+            },
+            {
+                "name": "Kings Crown",
+                "count": "1"
+            },
+            {
+                "name": "Impurity",
+                "count": "1"
+            },
+            {
+                "name": "Queens Vine",
+                "count": "1"
+            },
+            {
+                "name": "Oak Wood",
+                "count": "1"
+            },
+            {
+                "name": "Dark Repulser MkIII",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Floral Blade",
+        "required_smithing_level": 115,
+        "SK": 235,
+        "ingredients": [
+            {
+                "name": "Plant Matter Ingot",
+                "count": "25"
+            },
+            {
+                "name": "Holy Silver Ingot",
+                "count": "10"
+            },
+            {
+                "name": "Refined Gem",
+                "count": "20"
+            },
+            {
+                "name": "Queens Vine",
+                "count": "1"
+            },
+            {
+                "name": "Oak Wood",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Poseidons Scale",
+        "required_smithing_level": 120,
+        "SK": 220,
+        "ingredients": [
+            {
+                "name": "Scale",
+                "count": "15"
+            },
+            {
+                "name": "Reinforced Coral",
+                "count": "25"
+            },
+            {
+                "name": "Sea Jewel",
+                "count": "25"
+            },
+            {
+                "name": "Krakens Beak",
+                "count": "5"
+            },
+            {
+                "name": "Queens Vine",
+                "count": "3"
+            }
+        ]
+    },
+    {
+        "name": "Blessed Blade",
+        "required_smithing_level": 125,
+        "SK": 260,
+        "ingredients": [
+            {
+                "name": "Blessed Pendant of Light",
+                "count": "1"
+            },
+            {
+                "name": "Plant Matter Ingot",
+                "count": "10"
+            },
+            {
+                "name": "Dark Energy",
+                "count": "1"
+            },
+            {
+                "name": "Dark Source",
+                "count": "1"
+            },
+            {
+                "name": "Akikos Will",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Gigas Spirit",
+        "required_smithing_level": 42,
+        "SK": 280,
+        "ingredients": [
+            {
+                "name": "Alloy Smithing Plate",
+                "count": "1"
+            },
+            {
+                "name": "Crystaline Smithing Plate",
+                "count": "1"
+            },
+            {
+                "name": "Angelic Smithing Plate",
+                "count": "1"
+            },
+            {
+                "name": "Gigas Blessed Branch",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Butterscotch Blade",
+        "required_smithing_level": 165,
+        "SK": 335,
+        "ingredients": [
+            {
+                "name": "Pure Candy",
+                "count": "25"
+            },
+            {
+                "name": "Heavenly Ingot",
+                "count": "5"
+            },
+            {
+                "name": "Necromancer Brew",
+                "count": "1"
+            },
+            {
+                "name": "Das Chaos",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Divinity",
+        "required_smithing_level": 180,
+        "SK": 340,
+        "ingredients": [
+            {
+                "name": "Slayers Brew",
+                "count": "8"
+            },
+            {
+                "name": "Slayers Essence",
+                "count": "8"
+            },
+            {
+                "name": "Obsidibite",
+                "count": "6"
+            },
+            {
+                "name": "Moons Light",
+                "count": "2"
+            },
+            {
+                "name": "Yang Katana",
+                "count": "2"
+            },
+            {
+                "name": "Poseidons Trident",
+                "count": "2"
+            },
+            {
+                "name": "The Green Flame Sword",
+                "count": "1"
+            },
+            {
+                "name": "Sandstorm Blade",
+                "count": "1"
+            },
+            {
+                "name": "Sea Jewel",
+                "count": "40"
+            },
+            {
+                "name": "Reinforced Bone",
+                "count": "30"
+            },
+            {
+                "name": "Corundum Ingot",
+                "count": "40"
+            },
+            {
+                "name": "Gold Ingot",
+                "count": "40"
+            },
+            {
+                "name": "Holy Silver Ingot",
+                "count": "25"
+            },
+            {
+                "name": "Gigas Blessed Branch",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Black Verdict",
+        "required_smithing_level": 190,
+        "SK": 375,
+        "ingredients": [
+            {
+                "name": "Urban Alloy",
+                "count": "15"
+            },
+            {
+                "name": "Worn Blade Fragment",
+                "count": "20"
+            },
+            {
+                "name": "Control Chip",
+                "count": "2"
+            },
+            {
+                "name": "Necromancer Brew",
+                "count": "4"
+            },
+            {
+                "name": "Slayers Essence",
+                "count": "4"
+            },
+            {
+                "name": "Slayers Brew",
+                "count": "4"
+            },
+            {
+                "name": "Impurity",
+                "count": "5"
+            },
+            {
+                "name": "Refined Obsidium",
+                "count": "10"
+            },
+            {
+                "name": "Black Tags",
+                "count": "12"
+            },
+            {
+                "name": "Legacy Core",
+                "count": "12"
+            },
+            {
+                "name": "Redline Protocol",
+                "count": "1"
+            },
+            {
+                "name": "Crowbar Edge",
+                "count": "1"
+            },
+            {
+                "name": "Enforcer Blade",
+                "count": "1"
+            },
+            {
+                "name": "Cats Approval",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Decree",
+        "required_smithing_level": 195,
+        "SK": 395,
+        "ingredients": [
+            {
+                "name": "Necromancer Brew",
+                "count": "4"
+            },
+            {
+                "name": "Slayers Essence",
+                "count": "4"
+            },
+            {
+                "name": "Slayers Brew",
+                "count": "4"
+            },
+            {
+                "name": "Impurity",
+                "count": "5"
+            },
+            {
+                "name": "Refined Obsidium",
+                "count": "15"
+            },
+            {
+                "name": "Gigas Blessed Branch",
+                "count": "1"
+            },
+            {
+                "name": "Black Tag",
+                "count": "15"
+            },
+            {
+                "name": "Legacy Core",
+                "count": "15"
+            },
+            {
+                "name": "Black Verdict",
+                "count": "1"
+            },
+            {
+                "name": "Redline Protocol",
+                "count": "1"
+            },
+            {
+                "name": "Enforcer Blade",
+                "count": "1"
+            },
+            {
+                "name": "Crowbar Edge",
+                "count": "1"
+            },
+            {
+                "name": "Obsidian Core",
+                "count": "15"
+            }
+        ]
+    }
+]

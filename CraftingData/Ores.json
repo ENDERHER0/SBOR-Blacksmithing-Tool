@@ -1,0 +1,132 @@
+[
+    {
+        "name": "Iron Ingot",
+        "required_smithing_level": 1,
+        "ingredients": [
+            {
+                "name": "Iron Ore",
+                "count": "2"
+            }
+        ]
+    },
+    {
+        "name": "Copper Ingot",
+        "required_smithing_level": 3,
+        "ingredients": [
+            {
+                "name": "Copper Ore",
+                "count": "2"
+            }
+        ]
+    },
+    {
+        "name": "Malachite Ingot",
+        "required_smithing_level": 10,
+        "ingredients": [
+            {
+                "name": "Malachite Ore",
+                "count": "2"
+            }
+        ]
+    },
+    {
+        "name": "Corundum Ingot",
+        "required_smithing_level": 12,
+        "ingredients": [
+            {
+                "name": "Corundum Ore",
+                "count": "2"
+            }
+        ]
+    },
+    {
+        "name": "Gold Ingot",
+        "required_smithing_level": 20,
+        "ingredients": [
+            {
+                "name": "Gold Ore",
+                "count": "2"
+            }
+        ]
+    },
+    {
+        "name": "Bourne Ingot",
+        "required_smithing_level": 32,
+        "ingredients": [
+            {
+                "name": "Bourne Ore",
+                "count": "2"
+            }
+        ]
+    },
+    {
+        "name": "Silver Ingot",
+        "required_smithing_level": 35,
+        "ingredients": [
+            {
+                "name": "Silver Ore",
+                "count": "2"
+            }
+        ]
+    },
+    {
+        "name": "Demonite Ingot",
+        "required_smithing_level": 40,
+        "ingredients": [
+            {
+                "name": "Demonite",
+                "count": "2"
+            }
+        ]
+    },
+    {
+        "name": "Mossy Ingot",
+        "required_smithing_level": 50,
+        "ingredients": [
+            {
+                "name": "Mossy Stone",
+                "count": "2"
+            }
+        ]
+    },
+    {
+        "name": "Ebony Ingot",
+        "required_smithing_level": 60,
+        "ingredients": [
+            {
+                "name": "Ebony Ore",
+                "count": "2"
+            }
+        ]
+    },
+    {
+        "name": "Refined Gem",
+        "required_smithing_level": 80,
+        "ingredients": [
+            {
+                "name": "Gem Ore",
+                "count": "2"
+            }
+        ]
+    },
+    {
+        "name": "Harrowed Ingot",
+        "required_smithing_level": 100,
+        "ingredients": [
+            {
+                "name": "Harrowed Ore",
+                "count": "2"
+            }
+        ]
+    },
+    {
+        "name": "Heavenly Ingot",
+        "required_smithing_level": 130,
+        "ingredients": [
+            {
+                "name": "Heavenly Ore",
+                "count": "2"
+            }
+        ]
+    }
+]

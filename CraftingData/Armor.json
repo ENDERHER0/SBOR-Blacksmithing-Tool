@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Combat Armor MkII",
+        "required_smithing_level": 8,
+        "level": 10,
+        "ingredients": [
+            {
+                "name": "Copper Ingot",
+                "count": "10"
+            },
+            {
+                "name": "Boar Hide",
+                "count": "4"
+            },
+            {
+                "name": "Iron Ingot",
+                "count": "15"
+            },
+            {
+                "name": "Wolf Hide",
+                "count": "6"
+            },
+            {
+                "name": "Colored Combat Armor",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Custodian Attire",
+        "required_smithing_level": 195,
+        "level": 195,
+        "ingredients": [
+            {
+                "name": "Necromancer Brew",
+                "count": "5"
+            },
+            {
+                "name": "Slayers Essence",
+                "count": "4"
+            },
+            {
+                "name": "Slayers Brew",
+                "count": "4"
+            },
+            {
+                "name": "Impurity",
+                "count": "5"
+            },
+            {
+                "name": "Cats Approval",
+                "count": "1"
+            },
+            {
+                "name": "Refined Obsidium",
+                "count": "15"
+            },
+            {
+                "name": "Black Tag",
+                "count": "5"
+            },
+            {
+                "name": "Legacy Core",
+                "count": "5"
+            },
+            {
+                "name": "Marble Core",
+                "count": "20"
+            },
+            {
+                "name": "Custodian Mask",
+                "count": "1"
+            }
+        ]
+    }
+]

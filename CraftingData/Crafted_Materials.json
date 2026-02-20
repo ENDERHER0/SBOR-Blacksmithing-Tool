@@ -1,0 +1,328 @@
+[
+    {
+        "name": "Trout Oil",
+        "required_smithing_level": 1,
+        "ingredients": [
+            {
+                "name": "Raw Trout",
+                "count": "5"
+            }
+        ]
+    },
+    {
+        "name": "Holy Silver Ingot",
+        "required_smithing_level": 52,
+        "ingredients": [
+            {
+                "name": "Silver Ingot",
+                "count": "2"
+            },
+            {
+                "name": "Angels Dust",
+                "count": "2"
+            }
+        ]
+    },
+    {
+        "name": "Reinforced Bone",
+        "required_smithing_level": 62,
+        "ingredients": [
+            {
+                "name": "Bone Meal",
+                "count": "2"
+            }
+        ]
+    },
+    {
+        "name": "Reinforced Coral",
+        "required_smithing_level": 75,
+        "ingredients": [
+            {
+                "name": "Coral",
+                "count": "2"
+            }
+        ]
+    },
+    {
+        "name": "Moons Light",
+        "required_smithing_level": 85,
+        "ingredients": [
+            {
+                "name": "Xrphans Feather",
+                "count": "5"
+            },
+            {
+                "name": "Refined Gem",
+                "count": "15"
+            }
+        ]
+    },
+    {
+        "name": "Slayers Brew",
+        "required_smithing_level": 90,
+        "ingredients": [
+            {
+                "name": "Illfangs Tooth",
+                "count": "1"
+            },
+            {
+                "name": "Lord Slugs Slime",
+                "count": "1"
+            },
+            {
+                "name": "Stallords Eye",
+                "count": "1"
+            },
+            {
+                "name": "Uakmaroths Horn",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Plant Matter Ingot",
+        "required_smithing_level": 105,
+        "ingredients": [
+            {
+                "name": "Plant Matter",
+                "count": "2"
+            }
+        ]
+    },
+    {
+        "name": "Slayers Essence",
+        "required_smithing_level": 118,
+        "ingredients": [
+            {
+                "name": "Plasma Extract",
+                "count": "1"
+            },
+            {
+                "name": "Petrified Skull",
+                "count": "1"
+            },
+            {
+                "name": "Krakens Beak",
+                "count": "1"
+            },
+            {
+                "name": "Monks Sash",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Dark Energy",
+        "required_smithing_level": 120,
+        "ingredients": [
+            {
+                "name": "Dark Matter",
+                "count": "3"
+            }
+        ]
+    },
+    {
+        "name": "Dark Source",
+        "required_smithing_level": 120,
+        "ingredients": [
+            {
+                "name": "Dark Energy",
+                "count": "10"
+            }
+        ]
+    },
+    {
+        "name": "Alloy Smithing Plate",
+        "required_smithing_level": 36,
+        "ingredients": [
+            {
+                "name": "Iron Ingot",
+                "count": "10"
+            },
+            {
+                "name": "Copper Ingot",
+                "count": "10"
+            },
+            {
+                "name": "Malachite Ingot",
+                "count": "10"
+            },
+            {
+                "name": "Corundum Ingot",
+                "count": "10"
+            },
+            {
+                "name": "Gold Ingot",
+                "count": "10"
+            },
+            {
+                "name": "Lord Slugs Slime",
+                "count": "1"
+            },
+            {
+                "name": "Stallords Eye",
+                "count": "1"
+            },
+            {
+                "name": "Xrphans Feather",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Crystaline Smithing Plate",
+        "required_smithing_level": 38,
+        "ingredients": [
+            {
+                "name": "Scale",
+                "count": "10"
+            },
+            {
+                "name": "Sea Jewel",
+                "count": "10"
+            },
+            {
+                "name": "Gem Ore",
+                "count": "30"
+            },
+            {
+                "name": "Harrowed Ore",
+                "count": "20"
+            },
+            {
+                "name": "Krakens Beak",
+                "count": "1"
+            },
+            {
+                "name": "Monks Sash",
+                "count": "1"
+            },
+            {
+                "name": "Kings Crown",
+                "count": "1"
+            },
+            {
+                "name": "Impurity",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Angelic Smithing Plate",
+        "required_smithing_level": 40,
+        "ingredients": [
+            {
+                "name": "Silver Ingot",
+                "count": "20"
+            },
+            {
+                "name": "Demonite Ingot",
+                "count": "20"
+            },
+            {
+                "name": "Angels Dust",
+                "count": "50"
+            },
+            {
+                "name": "Dark Matter",
+                "count": "80"
+            },
+            {
+                "name": "Soul",
+                "count": "2"
+            },
+            {
+                "name": "Heavenly Ore",
+                "count": "20"
+            },
+            {
+                "name": "Poisonous Cleaver",
+                "count": "1"
+            },
+            {
+                "name": "Queens Vine",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Candy Ingot",
+        "required_smithing_level": 160,
+        "ingredients": [
+            {
+                "name": "Rock Candy",
+                "count": "2"
+            }
+        ]
+    },
+    {
+        "name": "Candy Bar",
+        "required_smithing_level": 160,
+        "ingredients": [
+            {
+                "name": "Sweet Candy",
+                "count": "2"
+            }
+        ]
+    },
+    {
+        "name": "Pure Candy",
+        "required_smithing_level": 162,
+        "ingredients": [
+            {
+                "name": "Candy Ingot",
+                "count": "1"
+            },
+            {
+                "name": "Candy Bar",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Necromancer Brew",
+        "required_smithing_level": 165,
+        "ingredients": [
+            {
+                "name": "Soul",
+                "count": "1"
+            },
+            {
+                "name": "Heavenly Ingot",
+                "count": "5"
+            },
+            {
+                "name": "Giant Chains",
+                "count": "1"
+            },
+            {
+                "name": "Captains Tooth",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Refined Obsidium",
+        "required_smithing_level": 170,
+        "ingredients": [
+            {
+                "name": "Obsidium Fragment",
+                "count": "10"
+            }
+        ]
+    },
+    {
+        "name": "Obsidian Core",
+        "required_smithing_level": 175,
+        "ingredients": [
+            {
+                "name": "Obsidian Shard",
+                "count": "10"
+            },
+            {
+                "name": "Obsidian Dust",
+                "count": "10"
+            }
+        ]
+    }
+]
