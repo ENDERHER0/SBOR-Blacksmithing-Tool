@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SBOR-Blacksmithing-Tool" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="25" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="MAIN_CLASS_NAME" value="com.sbor.tool.Main" />
+    <module name="SBOR-Blacksmithing-Tool" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;H:\Programs\SBOR\openjfx-25.0.2_windows-x64_bin-sdk\javafx-sdk-25.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml --enable-native-access=javafx.graphics" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
