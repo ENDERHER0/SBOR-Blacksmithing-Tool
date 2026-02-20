@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SBOR-Blacksmithing-Tool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SBOR_Blacksmithing_Tool_jar</output-path>
+    <root id="archive" name="SBOR-Blacksmithing-Tool.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="SBOR-Blacksmithing-Tool" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jackson-core-2.17.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../openjfx-25.0.2_windows-x64_bin-sdk/javafx-sdk-25.0.2/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../openjfx-25.0.2_windows-x64_bin-sdk/javafx-sdk-25.0.2/lib/jfx.incubator.richtext.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../openjfx-25.0.2_windows-x64_bin-sdk/javafx-sdk-25.0.2/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../openjfx-25.0.2_windows-x64_bin-sdk/javafx-sdk-25.0.2/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../openjfx-25.0.2_windows-x64_bin-sdk/javafx-sdk-25.0.2/lib/jfx.incubator.input.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../openjfx-25.0.2_windows-x64_bin-sdk/javafx-sdk-25.0.2/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../openjfx-25.0.2_windows-x64_bin-sdk/javafx-sdk-25.0.2/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../openjfx-25.0.2_windows-x64_bin-sdk/javafx-sdk-25.0.2/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../openjfx-25.0.2_windows-x64_bin-sdk/javafx-sdk-25.0.2/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../openjfx-25.0.2_windows-x64_bin-sdk/javafx-sdk-25.0.2/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../openjfx-25.0.2_windows-x64_bin-sdk/javafx-sdk-25.0.2/lib/jdk.jsobject.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jackson-annotations-2.17.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jackson-databind-2.17.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/byte-buddy-1.14.9.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
