@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Enchanced Coned Helmet",
+        "required_smithing_level": 7,
+        "level": 14,
+        "ingredients": [
+            {
+                "name": "Boar Hide",
+                "count": "4"
+            },
+            {
+                "name": "Coned Helmet",
+                "count": "1"
+            },
+            {
+                "name": "Copper Ingot",
+                "count": "5"
+            },
+            {
+                "name": "Wolf Hide",
+                "count": "5"
+            },
+            {
+                "name": "Iron Ingot",
+                "count": "6"
+            }
+        ]
+    },
+    {
+        "name": "Ancient Mask",
+        "required_smithing_level": 55,
+        "level": 70,
+        "ingredients": [
+            {
+                "name": "Mossy Ingot",
+                "count": "20"
+            },
+            {
+                "name": "Holy Silver Ingot",
+                "count": "15"
+            },
+            {
+                "name": "Plasma Extract",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Candy Mask",
+        "required_smithing_level": 165,
+        "level": 168,
+        "ingredients": [
+            {
+                "name": "Pure Candy",
+                "count": "25"
+            },
+            {
+                "name": "Necromancer Brew",
+                "count": "1"
+            },
+            {
+                "name": "Graciousness",
+                "count": "1"
+            }
+        ]
+    }
+]
