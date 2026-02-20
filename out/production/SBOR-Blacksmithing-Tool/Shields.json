@@ -1,0 +1,225 @@
+[
+    {
+        "name": "Master Shield MkII",
+        "required_smithing_level": 6,
+        "level": 13,
+        "ingredients": [
+            {
+                "name": "Copper Ingot",
+                "count": "4"
+            },
+            {
+                "name": "Wolf Hide",
+                "count": "3"
+            },
+            {
+                "name": "Iron Ingot",
+                "count": "5"
+            },
+            {
+                "name": "Master Shield",
+                "count": "1"
+            },
+            {
+                "name": "Boar Hide",
+                "count": "2"
+            },
+            {
+                "name": "Illfangs Tooth",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "GrandMaster Shield MkII",
+        "required_smithing_level": 8,
+        "level": 20,
+        "ingredients": [
+            {
+                "name": "Copper Ingot",
+                "count": "6"
+            },
+            {
+                "name": "Wolf Hide",
+                "count": "4"
+            },
+            {
+                "name": "Iron Ingot",
+                "count": "7"
+            },
+            {
+                "name": "GrandMaster Shield",
+                "count": "1"
+            },
+            {
+                "name": "Boar Hide",
+                "count": "2"
+            },
+            {
+                "name": "Illfangs Tooth",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "GrandMaster Shield MkIII",
+        "required_smithing_level": 10,
+        "level": 24,
+        "ingredients": [
+            {
+                "name": "Copper Ingot",
+                "count": "8"
+            },
+            {
+                "name": "Wolf Hide",
+                "count": "6"
+            },
+            {
+                "name": "Iron Ingot",
+                "count": "8"
+            },
+            {
+                "name": "GrandMaster Shield MkII",
+                "count": "1"
+            },
+            {
+                "name": "Boar Hide",
+                "count": "4"
+            },
+            {
+                "name": "Illfangs Tooth",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Malachite Shield",
+        "required_smithing_level": 15,
+        "level": 35,
+        "ingredients": [
+            {
+                "name": "Malachite Ingot",
+                "count": "15"
+            },
+            {
+                "name": "Wolf Hide",
+                "count": "8"
+            },
+            {
+                "name": "Corundum Ingot",
+                "count": "15"
+            }
+        ]
+    },
+    {
+        "name": "Permafrost Shield",
+        "required_smithing_level": 35,
+        "level": 55,
+        "ingredients": [
+            {
+                "name": "Xrphans Feather",
+                "count": "1"
+            },
+            {
+                "name": "Silver Ingot",
+                "count": "15"
+            },
+            {
+                "name": "Bourne Ingot",
+                "count": "15"
+            }
+        ]
+    },
+    {
+        "name": "Ancient Guardian",
+        "required_smithing_level": 60,
+        "level": 80,
+        "ingredients": [
+            {
+                "name": "Mossy Ingot",
+                "count": "20"
+            },
+            {
+                "name": "Holy Silver Ingot",
+                "count": "25"
+            },
+            {
+                "name": "Plasma Extract",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Wafer Shield",
+        "required_smithing_level": 165,
+        "level": 170,
+        "ingredients": [
+            {
+                "name": "Pure Candy",
+                "count": "25"
+            },
+            {
+                "name": "Heavenly Ingot",
+                "count": "3"
+            },
+            {
+                "name": "Necromancer Brew",
+                "count": "1"
+            },
+            {
+                "name": "Divine Guard",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Makeshift Riot Guard",
+        "required_smithing_level": 175,
+        "level": 160,
+        "ingredients": [
+            {
+                "name": "Guard Issue Scrap",
+                "count": "15"
+            },
+            {
+                "name": "Worn Blade Fragment",
+                "count": "15"
+            },
+            {
+                "name": "Street Fabric",
+                "count": "10"
+            },
+            {
+                "name": "Obsidium Fragment",
+                "count": "3"
+            }
+        ]
+    },
+    {
+        "name": "Protocol Aegis",
+        "required_smithing_level": 185,
+        "level": 170,
+        "ingredients": [
+            {
+                "name": "Red Visor Fragment",
+                "count": "10"
+            },
+            {
+                "name": "Facility Armor Plate",
+                "count": "10"
+            },
+            {
+                "name": "Triangle Emblem",
+                "count": "20"
+            },
+            {
+                "name": "Obsidian Dust",
+                "count": "10"
+            },
+            {
+                "name": "Obsidium Fragments",
+                "count": "6"
+            }
+        ]
+    }
+]
