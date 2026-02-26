@@ -608,5 +608,218 @@
                 "count": "15"
             }
         ]
+    },
+    {
+        "name": "Glacialis Judgment",
+        "required_smithing_level": 210,
+        "SK": 420,
+        "ingredients": [
+            {
+                "name": "Glacial Dust",
+                "count": "150"
+            },
+            {
+                "name": "Golem Core",
+                "count": "12"
+            },
+            {
+                "name": "Veiled Core",
+                "count": "7"
+            },
+            {
+                "name": "Slayers Brew",
+                "count": "5"
+            },
+            {
+                "name": "Impurity",
+                "count": "6"
+            },
+            {
+                "name": "Frozen Tear",
+                "count": "14"
+            },
+            {
+                "name": "Radiant Frost Sigil",
+                "count": "8"
+            },
+            {
+                "name": "Ruin of the North",
+                "count": "1"
+            },
+            {
+                "name": "Eirrend Breaker",
+                "count": "1"
+            },
+            {
+                "name": "Glacial Crystal Gem",
+                "count": "6"
+            }
+        ]
+    },
+    {
+        "name": "Glacialis Judgment Thunderfall",
+        "required_smithing_level": 240,
+        "SK": 435,
+        "ingredients": [
+            {
+                "name": "Frozen Tear",
+                "count": "25"
+            },
+            {
+                "name": "Eirrend Breaker",
+                "count": "1"
+            },
+            {
+                "name": "Glacial Crystal Gem",
+                "count": "12"
+            },
+            {
+                "name": "Glacial Dust",
+                "count": "250"
+            },
+            {
+                "name": "Frostforged Inert Core",
+                "count": "1"
+            },
+            {
+                "name": "Golem Core",
+                "count": "18"
+            },
+            {
+                "name": "Silent Tempest Conduit",
+                "count": "1"
+            },
+            {
+                "name": "Impurity",
+                "count": "8"
+            },
+            {
+                "name": "Stilled Nerves Alloy",
+                "count": "1"
+            },
+            {
+                "name": "Radiant Frost Sigil",
+                "count": "8"
+            },
+            {
+                "name": "Sigil of Frozen Accord",
+                "count": "1"
+            },
+            {
+                "name": "Ruin of the North",
+                "count": "1"
+            },
+            {
+                "name": "Glacialis Judgment",
+                "count": "1"
+            },
+            {
+                "name": "Slayers Brew",
+                "count": "9"
+            },
+            {
+                "name": "Unstable Hunger Fragment",
+                "count": "1"
+            },
+            {
+                "name": "Veiled Core",
+                "count": "18"
+            },
+            {
+                "name": "Spiritbound Frost",
+                "count": "10"
+            },
+            {
+                "name": "Pure Glacial Essence",
+                "count": "12"
+            },
+            {
+                "name": "Obsidibite",
+                "count": "5"
+            }
+        ]
+    },
+    {
+        "name": "Glacialis Judgment Radiant Fall",
+        "required_smithing_level": 240,
+        "SK": 435,
+        "ingredients": [
+            {
+                "name": "Frozen Tear",
+                "count": "25"
+            },
+            {
+                "name": "Eirrend Breaker",
+                "count": "1"
+            },
+            {
+                "name": "Glacial Crystal Gem",
+                "count": "12"
+            },
+            {
+                "name": "Glacial Dust",
+                "count": "250"
+            },
+            {
+                "name": "Glimmerbind Fragment",
+                "count": "1"
+            },
+            {
+                "name": "Golem Core",
+                "count": "18"
+            },
+            {
+                "name": "Hallowed Ember Vessel",
+                "count": "1"
+            },
+            {
+                "name": "Impurity",
+                "count": "8"
+            },
+            {
+                "name": "Purified Lumen Thread",
+                "count": "1"
+            },
+            {
+                "name": "Radiant Frost Sigil",
+                "count": "8"
+            },
+            {
+                "name": "Rite of Undying Dawn",
+                "count": "1"
+            },
+            {
+                "name": "Ruin of the North",
+                "count": "1"
+            },
+            {
+                "name": "Glacialis Judgment",
+                "count": "1"
+            },
+            {
+                "name": "Slayers Brew",
+                "count": "9"
+            },
+            {
+                "name": "Unstable Hunger Fragment",
+                "count": "1"
+            },
+            {
+                "name": "Veiled Core",
+                "count": "18"
+            },
+            {
+                "name": "Spiritbound Frost",
+                "count": "10"
+            },
+            {
+                "name": "Pure Glacial Essence",
+                "count": "12"
+            },
+            {
+                "name": "Obsidibite",
+                "count": "5"
+            }
+        ]
     }
 ]

@@ -5,6 +5,7 @@ import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
+import javafx.scene.image.Image;
 import javafx.scene.layout.*;
 import javafx.stage.Stage;
 
@@ -13,6 +14,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.File;
 import java.util.HashMap;
 import java.util.Map;
+
 
 public class Main extends Application {
 
@@ -32,6 +34,10 @@ public class Main extends Application {
     public void start(Stage stage) throws Exception {
 
         stage.setTitle("SBOR-Blacksmithing-Tool");
+
+        stage.getIcons().add(
+                new Image("file:resources/icon.png")
+        );
 
         manager = new CraftingManager();
 
@@ -71,7 +77,7 @@ public class Main extends Application {
 
         VBox root = new VBox(topBar, scrollPane);
 
-        Scene scene = new Scene(root, 400, 600);
+        Scene scene = new Scene(root, 500, 600);
         stage.setScene(scene);
         stage.show();
 
@@ -168,8 +174,15 @@ public class Main extends Application {
             currentLabel.setText("Current: " + counters.get(name));
         });
 
+        // Clear button
+        Button clearBtn = new Button("Clear");
+        clearBtn.setOnAction(e -> {
+            counters.put(name, 0);                 // reset counter
+            currentLabel.setText("Current: 0");    // update label
+        });
+
         // Add controls to right group
-        rightGroup.getChildren().addAll(currentLabel, plusBtn, minusBtn);
+        rightGroup.getChildren().addAll(currentLabel, plusBtn, minusBtn, clearBtn);
 
         // Add all to row: name | spacer | rightGroup
         row.getChildren().addAll(nameLabel, spacer, rightGroup);

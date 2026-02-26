@@ -701,5 +701,218 @@
                 "count": "15"
             }
         ]
+    },
+    {
+        "name": "Sanctum Edge",
+        "required_smithing_level": 210,
+        "SK": 420,
+        "ingredients": [
+            {
+                "name": "Glacial Dust",
+                "count": "100"
+            },
+            {
+                "name": "Golem Core",
+                "count": "10"
+            },
+            {
+                "name": "Veiled Core",
+                "count": "5"
+            },
+            {
+                "name": "Slayers Brew",
+                "count": "4"
+            },
+            {
+                "name": "Impurity",
+                "count": "5"
+            },
+            {
+                "name": "Frozen Tear",
+                "count": "12"
+            },
+            {
+                "name": "Radiant Frost Sigil",
+                "count": "8"
+            },
+            {
+                "name": "Blackfrost Oathblade",
+                "count": "1"
+            },
+            {
+                "name": "Oath of the North",
+                "count": "1"
+            },
+            {
+                "name": "Glacial Crystal Gem",
+                "count": "5"
+            }
+        ]
+    },
+    {
+        "name": "Sanctum Edge Dawnforged",
+        "required_smithing_level": 240,
+        "SK": 435,
+        "ingredients": [
+            {
+                "name": "Frozen Tear",
+                "count": "21"
+            },
+            {
+                "name": "Glacial Crystal Gem",
+                "count": "12"
+            },
+            {
+                "name": "Glacial Dust",
+                "count": "220"
+            },
+            {
+                "name": "Purified Lumen Thread",
+                "count": "1"
+            },
+            {
+                "name": "Golem Core",
+                "count": "15"
+            },
+            {
+                "name": "Unstable Hunger Fragment",
+                "count": "1"
+            },
+            {
+                "name": "Impurity",
+                "count": "6"
+            },
+            {
+                "name": "Hallowed Ember Vessel",
+                "count": "1"
+            },
+            {
+                "name": "Rite of Undying Dawn",
+                "count": "1"
+            },
+            {
+                "name": "Radiant Frost Sigil",
+                "count": "8"
+            },
+            {
+                "name": "Glimmerbind Fragment",
+                "count": "1"
+            },
+            {
+                "name": "Oath of the North",
+                "count": "1"
+            },
+            {
+                "name": "Slayers Brew",
+                "count": "8"
+            },
+            {
+                "name": "Veiled Core",
+                "count": "17"
+            },
+            {
+                "name": "Blackfrost Oathblade",
+                "count": "1"
+            },
+            {
+                "name": "Sanctum Edge",
+                "count": "1"
+            },
+            {
+                "name": "Spiritbound Frost",
+                "count": "10"
+            },
+            {
+                "name": "Pure Glacial Essence",
+                "count": "12"
+            },
+            {
+                "name": "Obsidibite",
+                "count": "5"
+            }
+        ]
+    },
+    {
+        "name": "Sanctum Edge Oathbreaker",
+        "required_smithing_level": 240,
+        "SK": 435,
+        "ingredients": [
+            {
+                "name": "Frozen Tear",
+                "count": "21"
+            },
+            {
+                "name": "Glacial Crystal Gem",
+                "count": "12"
+            },
+            {
+                "name": "Glacial Dust",
+                "count": "220"
+            },
+            {
+                "name": "Stilled Nerves Alloy",
+                "count": "1"
+            },
+            {
+                "name": "Golem Core",
+                "count": "15"
+            },
+            {
+                "name": "Unstable Hunger Fragment",
+                "count": "1"
+            },
+            {
+                "name": "Impurity",
+                "count": "6"
+            },
+            {
+                "name": "Silent Tempest Conduit",
+                "count": "1"
+            },
+            {
+                "name": "Sigil of Frozen Accord",
+                "count": "1"
+            },
+            {
+                "name": "Radiant Frost Sigil",
+                "count": "8"
+            },
+            {
+                "name": "Frostforged Inert Core",
+                "count": "1"
+            },
+            {
+                "name": "Oath of the North",
+                "count": "1"
+            },
+            {
+                "name": "Slayers Brew",
+                "count": "8"
+            },
+            {
+                "name": "Veiled Core",
+                "count": "17"
+            },
+            {
+                "name": "Blackfrost Oathblade",
+                "count": "1"
+            },
+            {
+                "name": "Sanctum Edge",
+                "count": "1"
+            },
+            {
+                "name": "Spiritbound Frost",
+                "count": "10"
+            },
+            {
+                "name": "Pure Glacial Essence",
+                "count": "12"
+            },
+            {
+                "name": "Obsidibite",
+                "count": "5"
+            }
+        ]
     }
 ]

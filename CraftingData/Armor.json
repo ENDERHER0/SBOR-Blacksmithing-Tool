@@ -72,5 +72,60 @@
                 "count": "1"
             }
         ]
+    },
+    {
+        "name": "Frostveil Echo Armor",
+        "required_smithing_level": 195,
+        "level": 225,
+        "ingredients": [
+            {
+                "name": "Necromancer Brew",
+                "count": "4"
+            },
+            {
+                "name": "Slayers Essence",
+                "count": "4"
+            },
+            {
+                "name": "Slayers Brew",
+                "count": "4"
+            },
+            {
+                "name": "Impurity",
+                "count": "5"
+            },
+            {
+                "name": "Unstable Hunger Fragment",
+                "count": "1"
+            },
+            {
+                "name": "Glacial Crystal Gem",
+                "count": "12"
+            },
+            {
+                "name": "Frozen Tear",
+                "count": "8"
+            },
+            {
+                "name": "Veiled Core",
+                "count": "20"
+            },
+            {
+                "name": "Glacial Crystal Shard",
+                "count": "20"
+            },
+            {
+                "name": "Frostveil Echo Helm",
+                "count": "1"
+            },
+            {
+                "name": "Frostveil Echo Mantle",
+                "count": "1"
+            },
+            {
+                "name": "Pure Glacial Essence",
+                "count": "1"
+            }
+        ]
     }
 ]
