@@ -616,5 +616,218 @@
                 "count": "15"
             }
         ]
+    },
+    {
+        "name": "Silent Absolution",
+        "required_smithing_level": 210,
+        "SK": 420,
+        "ingredients": [
+            {
+                "name": "Glacial Dust",
+                "count": "80"
+            },
+            {
+                "name": "Golem Core",
+                "count": "8"
+            },
+            {
+                "name": "Veiled Core",
+                "count": "5"
+            },
+            {
+                "name": "Slayers Brew",
+                "count": "4"
+            },
+            {
+                "name": "Impurity",
+                "count": "5"
+            },
+            {
+                "name": "Frozen Tear",
+                "count": "10"
+            },
+            {
+                "name": "Radient Frost Sigil",
+                "count": "8"
+            },
+            {
+                "name": "Frozen Whisper",
+                "count": "1"
+            },
+            {
+                "name": "Shard of Regret",
+                "count": "1"
+            },
+            {
+                "name": "Glacial Crystal Gem",
+                "count": "5"
+            }
+        ]
+    },
+    {
+        "name": "Silent Absolution Stormveil",
+        "required_smithing_level": 240,
+        "SK": 435,
+        "ingredients": [
+            {
+                "name": "Frozen Whisper",
+                "count": "1"
+            },
+            {
+                "name": "Shard of Regret",
+                "count": "1"
+            },
+            {
+                "name": "Frozen Tear",
+                "count": "20"
+            },
+            {
+                "name": "Glacial Crystal Gem",
+                "count": "10"
+            },
+            {
+                "name": "Glacial Dust",
+                "count": "200"
+            },
+            {
+                "name": "Stilled Nerve Alloy",
+                "count": "1"
+            },
+            {
+                "name": "Golem Core",
+                "count": "15"
+            },
+            {
+                "name": "Unstable Hunger Fragment",
+                "count": "1"
+            },
+            {
+                "name": "Impurity",
+                "count": "5"
+            },
+            {
+                "name": "Silent Tempest Conduit",
+                "count": "1"
+            },
+            {
+                "name": "Sigil of Frozen Accord",
+                "count": "1"
+            },
+            {
+                "name": "Radiant Frost Sigil",
+                "count": "8"
+            },
+            {
+                "name": "Frostforged Inert Core",
+                "count": "1"
+            },
+            {
+                "name": "Slayers Brew",
+                "count": "7"
+            },
+            {
+                "name": "Veiled Core",
+                "count": "15"
+            },
+            {
+                "name": "Silent Absolution",
+                "count": "1"
+            },
+            {
+                "name": "Spiritbound Frost",
+                "count": "10"
+            },
+            {
+                "name": "Pure Glacial Essence",
+                "count": "12"
+            },
+            {
+                "name": "Obsidibite",
+                "count": "5"
+            }
+        ]
+    },
+    {
+        "name": "Silent Absolution Lumenveil",
+        "required_smithing_level": 240,
+        "SK": 435,
+        "ingredients": [
+            {
+                "name": "Frozen Whisper",
+                "count": "1"
+            },
+            {
+                "name": "Shard of Regret",
+                "count": "1"
+            },
+            {
+                "name": "Frozen Tear",
+                "count": "20"
+            },
+            {
+                "name": "Glacial Crystal Gem",
+                "count": "10"
+            },
+            {
+                "name": "Glacial Dust",
+                "count": "200"
+            },
+            {
+                "name": "Purified Lumen Thread",
+                "count": "1"
+            },
+            {
+                "name": "Golem Core",
+                "count": "15"
+            },
+            {
+                "name": "Unstable Hunger Fragment",
+                "count": "1"
+            },
+            {
+                "name": "Impurity",
+                "count": "5"
+            },
+            {
+                "name": "Hallowed Ember Vessel",
+                "count": "1"
+            },
+            {
+                "name": "Rite of Undying Dawn",
+                "count": "1"
+            },
+            {
+                "name": "Radiant Frost Sigil",
+                "count": "8"
+            },
+            {
+                "name": "Glimmerbind Fragment",
+                "count": "1"
+            },
+            {
+                "name": "Slayers Brew",
+                "count": "7"
+            },
+            {
+                "name": "Veiled Core",
+                "count": "15"
+            },
+            {
+                "name": "Silent Absolution",
+                "count": "1"
+            },
+            {
+                "name": "Spiritbound Frost",
+                "count": "10"
+            },
+            {
+                "name": "Pure Glacial Essence",
+                "count": "12"
+            },
+            {
+                "name": "Obsidibite",
+                "count": "5"
+            }
+        ]
     }
 ]

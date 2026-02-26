@@ -324,5 +324,183 @@
                 "count": "10"
             }
         ]
+    },
+    {
+        "name": "Silent Tempest Conduit",
+        "required_smithing_level": 110,
+        "ingredients": [
+            {
+                "name": "Refined Gem",
+                "count": "10"
+            },
+            {
+                "name": "Sweet Candy",
+                "count": "1"
+            },
+            {
+                "name": "Refined Obsidium",
+                "count": "10"
+            },
+            {
+                "name": "Heavenly Ingot",
+                "count": "10"
+            },
+            {
+                "name": "Giant Hammer",
+                "count": "10"
+            },
+            {
+                "name": "Queens Vine",
+                "count": "1"
+            },
+            {
+                "name": "Kings Crown",
+                "count": "1"
+            },
+            {
+                "name": "Black Tag",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Stilled Nerves Alloy",
+        "required_smithing_level": 100,
+        "ingredients": [
+            {
+                "name": "Refined Gem",
+                "count": "10"
+            },
+            {
+                "name": "Soul",
+                "count": "1"
+            },
+            {
+                "name": "Obsidium Fragment",
+                "count": "10"
+            },
+            {
+                "name": "Heavenly Ingot",
+                "count": "10"
+            },
+            {
+                "name": "Scale",
+                "count": "10"
+            },
+            {
+                "name": "Monks Sash",
+                "count": "1"
+            },
+            {
+                "name": "Krakens Beak",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Frostforged Inert Core",
+        "required_smithing_level": 90,
+        "ingredients": [
+            {
+                "name": "Refined Gem",
+                "count": "10"
+            },
+            {
+                "name": "Petrified Skull",
+                "count": "1"
+            },
+            {
+                "name": "Candy Bar",
+                "count": "10"
+            },
+            {
+                "name": "Heavenly Ingot",
+                "count": "10"
+            },
+            {
+                "name": "Dark Matter",
+                "count": "10"
+            },
+            {
+                "name": "Uakmaroths Horn",
+                "count": "1"
+            },
+            {
+                "name": "Plasma Extract",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Purified Lumen Thread",
+        "required_smithing_level": 100,
+        "ingredients": [
+            {
+                "name": "Refined Gem",
+                "count": "10"
+            },
+            {
+                "name": "Soul",
+                "count": "1"
+            },
+            {
+                "name": "Obsidium Fragment",
+                "count": "10"
+            },
+            {
+                "name": "Heavenly Ingot",
+                "count": "10"
+            },
+            {
+                "name": "Scale",
+                "count": "10"
+            },
+            {
+                "name": "Monks Sash",
+                "count": "1"
+            },
+            {
+                "name": "Krakens Beak",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "name": "Hallowed Ember Vessel",
+        "required_smithing_level": 110,
+        "ingredients": [
+            {
+                "name": "Refined Gem",
+                "count": "10"
+            },
+            {
+                "name": "Sweet Candy",
+                "count": "1"
+            },
+            {
+                "name": "Refined Obsidium",
+                "count": "10"
+            },
+            {
+                "name": "Heavenly Ingot",
+                "count": "10"
+            },
+            {
+                "name": "Giant Hammer",
+                "count": "10"
+            },
+            {
+                "name": "Queens Vine",
+                "count": "1"
+            },
+            {
+                "name": "Kings Crown",
+                "count": "1"
+            },
+            {
+                "name": "Black Tag",
+                "count": "1"
+            }
+        ]
     }
 ]
